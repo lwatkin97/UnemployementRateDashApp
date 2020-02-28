@@ -5,7 +5,10 @@ Data visualization web app that shows the each US state's unemployment rate vers
 
 # Prerequisites
 You need Python3 and Dash to run this app
+
 Click here to install python3
+
 Click here to install dash
-Running the app
+
+# Running the app
 Locate to the app folder and run it by the command: python3 app.py
